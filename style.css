@@ -1,3 +1,22 @@
+strong{font-size : 大きさを指定 ; }
+h1{	
+    color 	  : #00FF00 ; 
+    text-align    : center ;
+    border-style  : dashed ;
+    border-color  : #dd03a9 ;
+    border-width  : 3px 30px 3px 30px ;
+}
+body{	background : url("taira.png") ; }
+img{	float : 場所の指定 ; }
+hr{	clear : both ; }
+p{	text-align:場所の指定 ; }
+a:hover {
+
+}
+
+-->
+</style>
+
 
 
 
@@ -234,6 +253,7 @@ main{
   background: #f5f5f5;
   box-shadow: 0px -10px 60px rgba(0,0,0,0.25);
 }
+
 
 
 
